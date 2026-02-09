@@ -1,4 +1,30 @@
-p {
+body {
+  margin: 10px 20px;
+}
+.p1 {
   background-color: blueviolet;
-  color: burlywood;
+  color: wheat;
+  text-align: justify;
+  padding: 15px;
+}
+
+.p2 {
+  font-size: medium;
+  color: chocolate;
+  background-color: burlywood;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bolder;
+  border: 2px solid blueviolet;
+  text-align: justify;
+  padding: 15px;
+}
+
+.p3 {
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  border: 5px dashed burlywood;
+  border-radius: 10px;
+  padding: 15px;
+  text-align: justify;
 }
